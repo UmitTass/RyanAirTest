@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="8.604">
+    <testcase classname="Declined Payment File" name="TC01_Failed_Payment_Attempt" time="8.49">
+        <system-out><![CDATA[Given user is on the RyanAir Homepage.......................................passed
+When accept cookie pop-up...................................................passed
+Then user fills in departure and destination................................passed
+Then user selects the flight options........................................passed
+Then user does log in.......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
